@@ -60,23 +60,28 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAABpSURBVDhPYxh4sGzZsrqlS5cmQ7lYAUgepA7KRYDly5cnASX+ABVkQoVQACF5nAoIaoQBdIVE
-        a4QBoEKQ30AaFkFpvGGBAYCaFgLxfxANFSIOkG0z2X7GpZCgAYQU4JUHSpCfwugMGBgAh7GQnhJougAA
-        AAAASUVORK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABGdBTUEAALGPC/xhBQAAAGlJREFUOE9j
+        GHiwbNmyuqVLlyZDuVgBSB6kDspFgOXLlycBJf4AFWRChVAAIXmcCghqhAF0hURrhAGgQpDfQBoWQWm8
+        YYEBgJoWAvF/EA0VIg6QbTPZfsalkKABhBTglQdKkJ/C6AwYGACHsZCeEmi6AAAAAABJRU5ErkJggg==
 </value>
   </data>
   <data name="button2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAABTSURBVDhPY6AK2Lx5s/SWLVuUCGGQOqgWCNi4caPUpk2bvgLxGSLwV5B6qFYGhvXr1ysABc5D
-        uXgBSB1IPZQ7qpkQGC6agQLkpzAQIDttkwcYGADb39T/1lyUmQAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABGdBTUEAALGPC/xhBQAAAFNJREFUOE9j
+        oArYvHmz9JYtW5QIYZA6qBYI2Lhxo9SmTZu+AvEZIvBXkHqoVgaG9evXKwAFzkO5eAFIHUg9lDuqmRAY
+        LpqBAuSnMBAgO22TBxgYANvf1P/WXJSZAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="button3.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAeSURBVDhPYxgFQwocOHCgD4g/kID7oFpHwVAADAwAtKsorZxlUF8AAAAASUVORK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAABGdBTUEAALGPC/xhBQAAAB5JREFUOE9j
+        GAVDChw4cKAPiD+QgPugWkfBUAAMDAC0qyitnGVQXwAAAABJRU5ErkJggg==
 </value>
   </data>
+  <metadata name="id_exam.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nom_exam.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>
